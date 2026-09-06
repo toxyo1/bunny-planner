@@ -14,7 +14,6 @@ O projeto foi desenvolvido com foco em uma interface limpa e minimalista, explor
 - Criação e gerenciamento de tarefas
 - Calendário interativo
 - Exibição de informações em modais
-- Armazenamento de dados no MySQL
 - Interface responsiva
 
 ## Tecnologias
@@ -23,4 +22,3 @@ O projeto foi desenvolvido com foco em uma interface limpa e minimalista, explor
 - CSS3
 - JavaScript
 - PHP
-- MySQL
